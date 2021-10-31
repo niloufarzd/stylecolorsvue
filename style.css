@@ -1,0 +1,19 @@
+.color_box {
+    width: 120px;
+    height: 120px;
+    float: right;
+    margin-right: 10px;
+  }
+  
+  #yellow {
+    background-color: yellow;
+  }
+  
+  #red {
+    background-color: red;
+  }
+  
+  #blue {
+    background-color: blue;
+  }
+  
